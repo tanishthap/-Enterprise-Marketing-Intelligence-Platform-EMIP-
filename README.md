@@ -1,5 +1,5 @@
 # -Enterprise-Marketing-Intelligence-Platform-EMIP-Ongoing Project Unfinished
-Stillunfinished-(EMIP) AI-powered research, marketing analytics, forecasting, decision intelligence, and executive reporting into a single unified platform.  Unlike traditional dashboards, EMIP integrates a centralized Enterprise AI Copilot capable of answering  business questions, analyzing uploaded research documents using (RAG),
+-(EMIP) AI-powered research, marketing analytics, forecasting, decision intelligence, and executive reporting into a single unified platform.  Unlike traditional dashboards, EMIP integrates a centralized Enterprise AI Copilot capable of answering  business questions, analyzing uploaded research documents using (RAG),
 ---
 <img width="1789" height="924" alt="Screenshot 2026-07-15 at 12 18 55 PM" src="https://github.com/user-attachments/assets/78cef770-87a6-42c4-a29f-4203d88ca612" />
 
