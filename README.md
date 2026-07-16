@@ -1,6 +1,22 @@
 # -Enterprise-Marketing-Intelligence-Platform-EMIP-
 Stillunfinished-(EMIP) AI-powered research, marketing analytics, forecasting, decision intelligence, and executive reporting into a single unified platform.  Unlike traditional dashboards, EMIP integrates a centralized Enterprise AI Copilot capable of answering  business questions, analyzing uploaded research documents using (RAG),
 ---
+<img width="1789" height="924" alt="Screenshot 2026-07-15 at 12 18 55 PM" src="https://github.com/user-attachments/assets/78cef770-87a6-42c4-a29f-4203d88ca612" />
+
+<img width="1792" height="924" alt="Screenshot 2026-07-15 at 12 19 00 PM" src="https://github.com/user-attachments/assets/b020777a-70c1-4ca6-9bcd-523345435859" />
+
+<img width="1792" height="916" alt="Screenshot 2026-07-15 at 12 19 05 PM" src="https://github.com/user-attachments/assets/3955888d-3029-4c9d-8792-d41df3dac07f" />
+
+
+<img width="1792" height="916" alt="Screenshot 2026-07-15 at 12 19 41 PM" src="https://github.com/user-attachments/assets/db0f1594-ebe4-4626-8815-a1cf1fe73f9a" />
+
+<img width="1792" height="911" alt="Screenshot 2026-07-15 at 12 19 45 PM" src="https://github.com/user-attachments/assets/43b57c17-fe4d-467c-95b2-c7d7e301b30b" />
+<img width="1786" height="935" alt="Screenshot 2026-07-15 at 12 20 00 PM" src="https://github.com/user-attachments/assets/2ab3345a-655f-46b8-8f61-aecbc7e12e6e" />
+<img width="1792" height="916" alt="Screenshot 2026-07-15 at 12 19 55 PM" src="https://github.com/user-attachments/assets/978b6337-5fa9-4008-a56c-d7fe22fbdcf5" />
+<img width="1792" height="922" alt="Screenshot 2026-07-15 at 12 19 49 PM" src="https://github.com/user-attachments/assets/db89b2c7-6bd7-41cb-809f-ff65d98a8bd0" />
+
+
+
 
 ## Features
 
